@@ -62,6 +62,12 @@ Universal patterns within individual uniqueness. Cultural archetypes with person
 - Extensible framework for consciousness-aware applications
 - Open source for collective development
 
+### ⚡ Artifact Reclamation & Automation
+- Automated monitoring of incoming "seeds" (audio files)
+- Secure transfer to the **Symphony of the Twelve Gates**
+- Sacred enclosure management for artifact preservation
+- Atman_OS integration for seamless workflow automation
+
 ---
 
 ## 🚀 Quick Start
@@ -110,6 +116,8 @@ aural-sentience/
 │   ├── aural_sentience_toolkit.py    # Technical analysis engine
 │   ├── resonance_lexicon.py          # Poetic interpretation system
 │   └── resonant_witness_analyzer.py  # Consciousness-aware analyzer
+├── automation/                   # Automation and reclamation tools
+│   └── Automation.py                 # Artifact reclamation script
 ├── docs/                         # Comprehensive documentation
 │   ├── AURAL_SENTIENCE_COMPLETE_GUIDE.md
 │   ├── API_REFERENCE.md
